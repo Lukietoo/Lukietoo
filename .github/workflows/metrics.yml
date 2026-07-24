@@ -1,0 +1,29 @@
+name: Metrics
+ 
+on:
+  # Rebuild the calendar once a day at 06:00 UTC (~10pm/11pm Pacific)
+  schedule:
+    - cron: "0 6 * * *"
+  # Let you trigger it by hand from the Actions tab
+  workflow_dispatch:
+  # Rebuild on push so you can see it work immediately
+  push:
+    branches:
+      - main
+ 
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: America/Los_Angeles
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+ 
