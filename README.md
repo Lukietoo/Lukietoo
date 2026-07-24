@@ -30,7 +30,5 @@ Tools
 <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vscode,postman&theme=dark" alt="Git, GitHub, AWS, GCP, VS Code, Postman" /> </div> <img width="100%" height="5" src="https://img.shields.io/badge/-FDB515?style=flat&color=FDB515" alt="" />
 Commit Activity
 <div align="center"> <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" /> </div> <img width="100%" height="5" src="https://img.shields.io/badge/-003262?style=flat&color=003262" alt="" />
-Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lukietoo&show_icons=true&bg_color=00000000&title_color=FDB515&icon_color=FDB515&text_color=808080&border_color=003262&hide_title=true" alt="GitHub stats" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukietoo&layout=compact&bg_color=00000000&title_color=FDB515&text_color=808080&border_color=003262&hide_title=true" alt="Top languages" /> </div> <img width="100%" height="5" src="https://img.shields.io/badge/-FDB515?style=flat&color=FDB515" alt="" />
 Now Playing
 <div align="center"> <a href="https://open.spotify.com/user/lhknp5l2qyng9q2fvsryed193"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lhknp5l2qyng9q2fvsryed193&cover_image=true&theme=default&show_offline=true&background_color=003262&bar_color=FDB515&bar_color_cover=false&border_radius=10&interchange=false" alt="Spotify now playing" /> </a> </div>
