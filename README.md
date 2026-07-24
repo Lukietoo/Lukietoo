@@ -31,4 +31,4 @@ Tools
 Commit Activity
 <div align="center"> <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" /> </div> <img width="100%" height="5" src="https://img.shields.io/badge/-003262?style=flat&color=003262" alt="" />
 Now Playing
-<div align="center"> <a href="https://open.spotify.com/user/lhknp5l2qyng9q2fvsryed193"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lhknp5l2qyng9q2fvsryed193&cover_image=true&theme=default&show_offline=true&background_color=003262&bar_color=FDB515&bar_color_cover=false&border_radius=10&interchange=false" alt="Spotify now playing" /> </a> </div>
+<div align="center"> <a href="https://open.spotify.com/user/lhknp5l2qyng9q2fvsryed193"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lhknp5l2qyng9q2fvsryed193&cover_image=true&theme=default&show_offline=false&background_color=003262&bar_color=FDB515&bar_color_cover=false&border_radius=10&interchange=false" alt="Spotify now playing" /> </a> </div>
